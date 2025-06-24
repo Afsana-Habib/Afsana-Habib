@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afsana-Habib
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on machine learning models
 - 📫 How to reach me by me email
 - 😄 Pronouns: ...
